@@ -17,5 +17,5 @@ require (
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/vincent-petithory/dataurl v0.0.0-20160330182126-9a301d65acbb // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20191010095647-fc94e3f71652 // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
